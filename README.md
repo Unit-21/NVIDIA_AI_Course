@@ -1,1 +1,1 @@
-# NVIDIA_AI_Course
+# NVIDIA AI Course
